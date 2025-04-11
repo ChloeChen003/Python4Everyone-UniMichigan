@@ -1,0 +1,10 @@
+1. create local folder 
+2. create github repository / copy the SSH
+3. open local foder in VSCode - terminal 
+git init
+git remote add origin SSH
+git pull origin master 
+git status 
+git add .
+git commit -m "xxxx"
+git push origin master 
