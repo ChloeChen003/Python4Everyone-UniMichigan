@@ -10,7 +10,7 @@ Link: 'https://www.coursera.org/specializations/python'
 
 course 1. Programming for Everybody (Getting Started with Python)
 
-course 2. Python Data Structures 
+course 2. Python Data Structures https://www.coursera.org/learn/python-data/gradedLti/XX6uS/assignment-8-5
 
 Course 3. Using Python to Access Web Data 
 
