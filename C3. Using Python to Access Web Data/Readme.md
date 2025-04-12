@@ -18,3 +18,15 @@ cd C:\Monash\Python4Everybody\C3. Using Python to Access Web Data
 dir 
 (c) run the python file in "command prompt"
 py hello.py
+
+4. Additional info
+This chapter covers networking at a very high level.   If you want to learn more, there is both a free book and a Coursera course that I would recommend:
+
+Introduction to Networking
+ (free textbook)
+
+Internet History, Technology, and Security
+ (Coursera Course)
+
+Neither of these is essential for this course or the Python Specialization as we quickly move from how the network works to how to write Python code using the urllib library - which makes the very complex Internet protocols exceedingly simple.
+
